@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 scrapy = "*"
+wheel = "*"
+pandas = "==1.5.0"
 
 [dev-packages]
 
